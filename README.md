@@ -35,7 +35,7 @@ A simple, elegant web tool for generating consistent, standardized file names fo
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone File-Name-Generator
    cd file-name-generator
    ```
 
