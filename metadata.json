@@ -1,0 +1,5 @@
+{
+  "name": "File Name Generator",
+  "description": "A utility to generate standardized file naming strings based on date and iteration number.",
+  "requestFramePermissions": []
+}
