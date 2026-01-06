@@ -1,4 +1,4 @@
-# 📂 File Name Generator
+# 📂 File Name Generator (AI assisted project)
 
 A simple, elegant web tool for generating consistent, standardized file names for your coding practice, daily journals, or project files.
 
